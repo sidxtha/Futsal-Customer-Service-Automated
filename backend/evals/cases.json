@@ -1,0 +1,13 @@
+[
+  {"message": "What time does your court open on Saturdays?", "expect": "answer"},
+  {"message": "Do you have a 5-a-side court in Baneshwor?", "expect": "answer"},
+  {"message": "How much does it cost to book a court for 2 hours?", "expect": "answer"},
+  {"message": "Which payment methods do you accept?", "expect": "answer"},
+  {"message": "Can I wear studs on the turf?", "expect": "answer"},
+  {"message": "तपाईंको कोर्ट शनिबार कति बजे खुल्छ?", "expect": "answer"},
+  {"message": "Is there parking at the venue?", "expect": "escalate"},
+  {"message": "Can I bring my own ball?", "expect": "escalate"},
+  {"message": "Do you sell futsal shoes?", "expect": "escalate"},
+  {"message": "Do you offer a student discount?", "expect": "escalate"},
+  {"message": "What will the weather be like tomorrow?", "expect": "escalate"}
+]

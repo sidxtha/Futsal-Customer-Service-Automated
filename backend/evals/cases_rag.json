@@ -1,0 +1,90 @@
+[
+  {
+    "message": "What time does your court open on Saturdays?",
+    "expect": "answer"
+  },
+  {
+    "message": "Do you have a 5-a-side court in Baneshwor?",
+    "expect": "answer"
+  },
+  {
+    "message": "How much does it cost to book a court for 2 hours?",
+    "expect": "answer"
+  },
+  {
+    "message": "Which payment methods do you accept?",
+    "expect": "answer"
+  },
+  {
+    "message": "Can I wear studs on the turf?",
+    "expect": "answer"
+  },
+  {
+    "message": "तपाईंको कोर्ट शनिबार कति बजे खुल्छ?",
+    "expect": "answer"
+  },
+  {
+    "message": "How much for a 7-a-side court for 3 hours on a Friday at 6pm?",
+    "expect": "answer"
+  },
+  {
+    "message": "Is there parking at the venue?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Can I bring my own ball?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Do you sell futsal shoes?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Do you offer a student discount?",
+    "expect": "escalate"
+  },
+  {
+    "message": "What will the weather be like tomorrow?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Is the 7-a-side court free this Saturday at 6pm?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Do you have a 9-a-side court?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Can I reschedule my booking 2 hours before the match?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Are you open on public holidays?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Do you have a court in Lalitpur?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Do you have a 3-a-side court?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Can I cancel for free 3 hours before my match?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Can I still change my booking 1 hour before if I pay extra?",
+    "expect": "escalate"
+  },
+  {
+    "message": "Are you open at midnight on Saturday?",
+    "expect": "answer"
+  },
+  {
+    "message": "Do you have floodlights for night games?",
+    "expect": "answer"
+  }
+]
